@@ -13,5 +13,17 @@ let scoreInNumber = Number(score)
 
 let someNumber = 25
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// *************OPERATIONS***************
+
+// console.log("2" + 3);   //23
+// console.log(2 + "3");   //23
+// console.log("2" + "3");  //23
+// console.log("2" + 3 + 3);  //233
+// console.log(2 + 3 + "3");  //53
+
+console.log(true);   //true
+console.log(+true);  //1
+//console.log(true+);  //error
