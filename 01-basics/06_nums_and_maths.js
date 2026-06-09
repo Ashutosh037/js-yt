@@ -18,3 +18,4 @@ const hundreds = 100000000
 // console.log(Math.round(3.6));
 
 console.log(Math.random());   // in this the value always comes between 0 and 1
+
